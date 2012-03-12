@@ -1,5 +1,5 @@
 # regular_validation #
-[[Build Status](https://secure.travis-ci.org/zenapsis/regular_validation.png)](http://travis-ci.org/zenapsis/regular_validation)
+[![Build Status](https://secure.travis-ci.org/zenapsis/regular_validation.png)](http://travis-ci.org/zenapsis/regular_validation)
 
 A collection of Regular Expressions to be used in Validations
 
