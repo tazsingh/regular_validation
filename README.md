@@ -6,7 +6,7 @@ A collection of Regular Expressions to be used in Validations
 
 Add `regular_validation` to your `Gemfile`
 
-    gem 'regular_validation', '~> 0.0.1'
+    gem 'regular_validation', '~> 0.0.2'
 
 ## Usage ##
 
