@@ -21,10 +21,12 @@ For example:
 It's especially useful for ActiveModel Validations, however it isn't tied to Rails or any framework:
 
     validates_format_of :username, with: RegularValidation.username
+    validates_format_of :email,    with: RegularValidation.email
 
 Currently supports the following validations:
 
     username
+    email
 
 ## TODO ##
 
