@@ -3,7 +3,11 @@ require "regular_validation/version"
 module RegularValidation
   class << self
     def username
-      /^[a-zA-Z][\w\.]+$/
+      /\A[a-zA-Z][\w\.]+\z/
+    end
+
+    def email
+      /\A[^@]+@([^@\.]+\.)+[^@\.]+\z/
     end
   end
 end
